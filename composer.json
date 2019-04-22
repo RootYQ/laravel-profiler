@@ -1,0 +1,14 @@
+{
+    "name": "rootyq/laravel-profiler",
+    "description": "a profiler for laravel framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rootyq",
+            "email": "465061854@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
